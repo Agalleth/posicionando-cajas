@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  }
+#big{
+  background-color: red;
+  width: 500px;
+  height: 500px;
+}
+#medium{
+  background-color: purple;
+  width: 250px;
+  height: 250px;
+  margin-left: 125px;
+  margin-top: 125px;
+  position:absolute;
+}
+#small{
+  background-color: yellow;
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  margin-top: 125px;
+  margin-left: 125px;
+}

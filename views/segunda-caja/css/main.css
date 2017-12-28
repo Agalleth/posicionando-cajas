@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  }
+#big{
+  background-color: blue;
+  width: 500px;
+  height: 500px;
+}
+#medium{
+  background-color: green;
+  width: 250px;
+  height: 250px;
+  margin-left: 125px;
+  margin-top: 125px;
+  position:absolute;
+}
+#small{
+  background-color: black;
+  width: 125px;
+  height: 125px;  
+}
